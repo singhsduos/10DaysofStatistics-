@@ -1,6 +1,6 @@
 # 10DaysofStatistics-
 
-All the solution are solved in C++ with Day wise and problem difficulty also increased acording to Days.
+All the solution are solved in C++ with Day wise and problem difficulty also increased according to Days.
 
 ---
 
