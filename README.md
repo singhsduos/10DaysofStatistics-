@@ -10,7 +10,7 @@ This Course is taken from [HackerRank](https://www.hackerrank.com/domains/tutori
 
 You can checkout my stars and badges in HackerRank, [Click Here](https://www.hackerrank.com/ns9628491678).
 
-Clone this project repository: `https://github.com/singhsduos/10DaysofStatistics-`
+Clone this project repository: `https://github.com/singhsduos/HackerRank-Solutions`
 
 ---
 
