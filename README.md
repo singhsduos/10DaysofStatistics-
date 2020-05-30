@@ -6,7 +6,7 @@ All the solution are solved in C++ with Day wise and problem difficulty also inc
 
 # All Important Links are here
 
-This Course is taken from [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics).
+10_Days_of_Statistics Course is taken from [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics).
 
 You can checkout my stars and badges in HackerRank, [Click Here](https://www.hackerrank.com/ns9628491678).
 
