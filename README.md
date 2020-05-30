@@ -1,4 +1,4 @@
-# 10DaysofStatistics-
+# HackerRank-Solutions
 
 All the solution are solved in C++ with Day wise and problem difficulty also increased according to Days.
 
@@ -16,5 +16,5 @@ Clone this project repository: `https://github.com/singhsduos/10DaysofStatistics
 
 # Note
 
-Before attempting these question, you should have basic knowledge of any programming language and mathematics.
+Before attempting these question, you should have basic knowledge of any programming language, mathematics, data structure and algorithms.
 
