@@ -7,7 +7,7 @@ Your mind is programmable - if you're not programming your mind, else will progr
 # Note
 You can checkout my main README file for this course links and try to solve by own first.
 
-Solutions are oredered by difficulty level by numbers.
+Solutions are ordered by difficulty level by numbers.
 
 `HAPPY CODING`
 
